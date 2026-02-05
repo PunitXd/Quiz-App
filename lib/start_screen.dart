@@ -21,7 +21,7 @@ class StartScreen extends StatelessWidget {
             height: 20,
           ),
           Text(
-            'Learn flutter!',
+            'Learn flutter, yeah!',
             style: GoogleFonts.lato(
               color: Colors.white,
               fontSize: 25,
